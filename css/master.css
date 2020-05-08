@@ -1,7 +1,9 @@
 /* Cascading stylesheet for the website */
 
 /* Text inside these asterisks and slashes are comments for human */
-
+img{
+  height:50%;
+}
   a {
     color: blue;/* set the text color to blue here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
